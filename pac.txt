@@ -2493,9 +2493,9 @@ var domains = {
   "ggpht.com":1
 };
 
-var proxy = "PROXY 127.0.0.1:1080;";
+var proxy = "PROXY 127.0.0.1:1080; DIRECT";
 
-var direct = 'DIRECT;';
+var direct = 'DIRECT';
 
 var hasOwnProperty = Object.hasOwnProperty;
 
