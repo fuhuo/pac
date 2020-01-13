@@ -3,8 +3,6 @@
 
 var domains = {
   "gstatic.com": 1,
-  "githubusercontent.com": 1,
-  "githubassets.com": 1,
   "steamcommunity.com": 1,
   "teddysun.com": 1,
   "phncdn.com": 1,
